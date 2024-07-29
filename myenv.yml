@@ -1,0 +1,13 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - sentence-transformers
+    - torch
+    - transformers
+    - numpy
+    - azureml-defaults
+    - azureml-core  

@@ -1,0 +1,1994 @@
+[
+  {
+    "ServiceId": "0a040f25-f1a7-4d63-a1c1-d4c7f25f47ca",
+    "ServiceGroup": "1ESCloudTestWorker",
+    "RolloutID": "ddb5f08b-334e-4137-8470-be172ee92f10",
+    "BuildNumber": "tomasvokal - Release-53",
+    "PreciseTimeStamp": "2024-07-24T13:13:16.472881Z",
+    "key": "560f608b1ecd32fce22809f8061c610d444dc3106506c696a3dc4f2889af134b"
+  },
+  {
+    "ServiceId": "516d205c-b6ec-443f-b340-77dcd37798dc",
+    "ServiceGroup": "1ESResourceManagement",
+    "RolloutID": "b4ec3d90-a276-4f9c-ba99-dff318e7c292",
+    "BuildNumber": "dev2b-566",
+    "PreciseTimeStamp": "2024-07-24T07:26:57.3192Z",
+    "key": "38eec38d80c91ec550c5201f3d6160c0c43b6a32f4f4b37db03ea7ca1e1769ce"
+  },
+  {
+    "ServiceId": "516d205c-b6ec-443f-b340-77dcd37798dc",
+    "ServiceGroup": "1ESResourceManagement",
+    "RolloutID": "fb26c9c8-9a39-4b8f-be7c-b4140450a2d5",
+    "BuildNumber": "tomasvokal - Release-53",
+    "PreciseTimeStamp": "2024-07-24T13:13:40.527416Z",
+    "key": "86775105e6cb623bcf92e5316f5d114d8f0e8df240470bbb6c7708838c8e6866"
+  },
+  {
+    "ServiceId": "0a040f25-f1a7-4d63-a1c1-d4c7f25f47ca",
+    "ServiceGroup": "1ESSessionServiceGroup",
+    "RolloutID": "07b78b3f-ff4a-453e-8665-262e668e5317",
+    "BuildNumber": "dev2b-566",
+    "PreciseTimeStamp": "2024-07-24T07:26:58.037776Z",
+    "key": "bde548fbee49ac5a71d6ec48d845316b43bad8c4c73287f9eaec84c0a55f8feb"
+  },
+  {
+    "ServiceId": "0a040f25-f1a7-4d63-a1c1-d4c7f25f47ca",
+    "ServiceGroup": "1ESSessionServiceGroup",
+    "RolloutID": "9e84282a-f70b-45fc-9ce2-0f0d4fca8a24",
+    "BuildNumber": "tomasvokal - Release-53",
+    "PreciseTimeStamp": "2024-07-24T13:13:37.155049Z",
+    "key": "609c7bf2951b209792eb500cd91edfda17cdfd4ecf7f40c7a374b8ebf8e22538"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "1pGitAzureFunction",
+    "RolloutID": "449c2420-2805-412d-8a69-67537951de4e",
+    "BuildNumber": "1.0.02761.1376",
+    "PreciseTimeStamp": "2024-07-24T07:24:07.915575Z",
+    "key": "c74a632271fdc0111106bf73d8ce2161a5be0a119df9890e8eb5985f668e8053"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "1pGitAzureFunction",
+    "RolloutID": "d5883f6f-57d4-470e-a7a1-1c1ee484ee42",
+    "BuildNumber": "1.0.02761.1377",
+    "PreciseTimeStamp": "2024-07-24T13:38:21.854188Z",
+    "key": "6fd35d12c4fe6a8dcce22156288bd697a93ef8ed71b650c62c3b40a761d70741"
+  },
+  {
+    "ServiceId": "4de268ce-4b02-49da-a639-3630ab5e68d5",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "c411566b-c531-4fda-b4d3-8473c4e79e26",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T07:26:03.00614Z",
+    "key": "e1f6f48ceb748be39475de7c579f96dddad02935709e6a67abcf9c60537b9dfc"
+  },
+  {
+    "ServiceId": "0a145467-41c4-4baa-896d-4d7b4b30a6e5",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "8129cc15-c29f-4218-8d6c-959063b0634b",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T10:27:13.312244Z",
+    "key": "64e4503409794f6100c47ec9eea94d3dd5b636edb943b4c3879119676d5fe93d"
+  },
+  {
+    "ServiceId": "2fa7ba65-93e0-46c6-98b0-1df0c4e8a74d",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "5ce3e3a7-f138-4348-842c-8fe88922c210",
+    "BuildNumber": "master-Official-2024-07-22.1",
+    "PreciseTimeStamp": "2024-07-24T12:04:43.665854Z",
+    "key": "2f9bb6122031e797891e64e98daed0725b4cfa552ee50bb146cadda2a9b5829b"
+  },
+  {
+    "ServiceId": "259f9ded-b047-4edd-aae1-e253f6247176",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "7fcf1771-cc8a-4b5c-80d4-689715c5f3b8",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T12:46:46.341041Z",
+    "key": "423dc4a751b660de33c573093ad438a8b657444a2b4b18fc8c0c5eb142ce9335"
+  },
+  {
+    "ServiceId": "924b96de-5423-4872-b531-f4c1c96a6d61",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "5eea3b5b-caa3-405f-9582-0b1f03c4f245",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T13:48:53.48764Z",
+    "key": "2c7d6c4f134e5f981a997e3a188b20f07d6cf1bd9be60207544834618a35d620"
+  },
+  {
+    "ServiceId": "2fa7ba65-93e0-46c6-98b0-1df0c4e8a74d",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "83b54c58-9ed9-48d7-a80c-c3083cf909cb",
+    "BuildNumber": "master-Official-2024-07-24.1",
+    "PreciseTimeStamp": "2024-07-24T13:54:01.234914Z",
+    "key": "c3d6cc4c2a32c90f38dea7104584e5b8c4ed1ac5a365a5c4114f9edf07b2a877"
+  },
+  {
+    "ServiceId": "a84923a4-f36d-4d93-a3ff-9801c5cae1e7",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "d1575155-d97f-4561-abf7-0032f049b030",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:00:29.192335Z",
+    "key": "1a2427eae6bfb94c0fc02396eb00d17bd83ace4f97e7cdba32eb73f1418aaf6c"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "6a0860ea-8364-4fde-b17c-4ad21b89425e",
+    "BuildNumber": "1.0.02761.25681",
+    "PreciseTimeStamp": "2024-07-24T14:10:02.072453Z",
+    "key": "76811e2bcf803f2fcc048111af61b374689a0d68c979387661f5ac9f4a692344"
+  },
+  {
+    "ServiceId": "28c3d063-77fb-4fc5-9f92-75f7608fe2f8",
+    "ServiceGroup": "AAD First Party Git",
+    "RolloutID": "9a6fdcea-c45c-46f4-9186-a36ea4972810",
+    "BuildNumber": "20240723.1",
+    "PreciseTimeStamp": "2024-07-24T14:19:40.34245Z",
+    "key": "277690993f994e310c54b6155168702db7b3d598bb362b2045e8a931cccc251a"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "0d8b4f70-abe9-4ffe-98d0-e3603b634f55",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:11:14.134126Z",
+    "key": "46c8518d70c600e6bce9a79f9cc00369bb4e09379883caa65130b93f71b579b3"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "15927448-b292-4fce-8fac-ee89a9ac5f7e",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:19:15.400303Z",
+    "key": "a5a7131c022394eedcbfde0675130769394f7d5455ad3e790e202d00e42ebf53"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "8a43fd8e-66a0-4841-a6a0-4c4c3686e2f5",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T11:34:41.659752Z",
+    "key": "298c983eb06f96d98bfcb819b55ca9b9c1982ee32b287f0d33f78251403e9901"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "22a135b6-7027-4058-9bfd-f8806906db79",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:23:46.909064Z",
+    "key": "33b33ea849b0595f73a1732d8e45b88ae1ddef407d9f3e3c950473bf72f29443"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "3523063f-7b53-4e6a-9407-cf57c9167037",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:29:47.913513Z",
+    "key": "36f9876f71cbde462c2ced1ff878727870fe01b873f6fe93e6e89ce91b4a36ce"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "2766401c-c5af-43bd-bd3d-3943b6c957bc",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:39:09.61562Z",
+    "key": "a5a0c882996e15e8600234ddec886eac8195c60963b0e2dc242969d7cd42fa59"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Logging",
+    "RolloutID": "99c74645-6610-4a2f-9561-2444dbd94808",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:01:19.973002Z",
+    "key": "ac7e3fa96ceafaf4dc51d171f642f54e2b5f2a17deb1f8557fa2c367a7c0d324"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Metrics",
+    "RolloutID": "04570d66-a348-449d-8f3c-720806fa376f",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:12:16.064906Z",
+    "key": "79e73f26acc112e1dca9e6211002d9ee68340fbed2689a51ae5ffb3ae60a9bcc"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Metrics",
+    "RolloutID": "d70f5174-d801-4028-83e4-be5b7f124726",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:17:47.609513Z",
+    "key": "787cd09b45146f5835857564bb6150bfb62fc1747b093a6858a4bfba961c0dc8"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Metrics",
+    "RolloutID": "b9b335b7-e0ae-48f0-9c20-a429338e5bb8",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:22:00.536537Z",
+    "key": "086f3494b8f5c144b19797295d2b536d86914e2fb03d6e8d439e98b0c2ed6c0c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Metrics",
+    "RolloutID": "159a3e1b-a22d-473e-8638-7b3468d7c5f7",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:08.288335Z",
+    "key": "12774a89c45c3a173d3dd309b46617d7f570d77241190dfbcb3c35841919f548"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Metrics",
+    "RolloutID": "9cb80189-10ee-4e41-a9d4-1053fdb66fd1",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:37:35.708701Z",
+    "key": "98ebfbadd1e2d080e346f3675969f751a4f1bcb6363ca91f8a1648068bf502dc"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Metrics",
+    "RolloutID": "5c859087-5ebc-410a-ab04-9dbd1b145d35",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:01:16.369899Z",
+    "key": "f4a66bef4647c7bbae4b42200d07703577ec9da52a8210406f112da83aa7d2b5"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "9396797b-ee97-4165-8528-bdd54182a798",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:10:19.175541Z",
+    "key": "4f74b654763ddde480bf5ce5463870b8c4486b81873179641de3d7463c420b95"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "5ef4587e-40f1-426f-960b-9cb1984ee588",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:18:07.519709Z",
+    "key": "fc8cb7b011f930fc98c95774ac22599e8eeca36182ed14107d4dae79c6d19c44"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "cf6012a2-72d3-42b9-b5c7-2f037a7eda5f",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:22:12.256706Z",
+    "key": "f6bf59f78c362f64685e37db9628e53c72c09717e9da28d137817e31a8d40b85"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "0dc42fcf-bd02-4088-9cf2-239a342e4ed9",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:22:29.74283Z",
+    "key": "423c7b233a15ea380d40053d5f846b6ca8e3655fb9f1ff18edbcca94f051da60"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "a5ba613c-10a1-4c97-9d9c-d0f72229068a",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:12.410432Z",
+    "key": "04e9acc128dfe4a2360e35fb162f77fa21e0a14aab889ec21dc15604e8e345f3"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "8eec6e0b-8466-429d-bf4a-61abb1b9bdf2",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:38:15.669298Z",
+    "key": "9ee54a6cc3de1f21363fa2417151f88dded30e64f41a17d7e17fba3c130c723b"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AKS.Reloader",
+    "RolloutID": "0f6c8b8b-1562-4f24-a88c-9383e0857319",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:01:02.913928Z",
+    "key": "d2569216b8c1a27ac9895ff8a83cd1e837c27eb5182e387934c342f83b8e6adc"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AksCluster",
+    "RolloutID": "c2c0137e-2c65-4ae2-bfaa-d8937a1f9924",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T10:20:17.309744Z",
+    "key": "0be61d3178b7451393ab2cf6d7b23bfae2975635cee8bca5e23a8e3c8ebed75c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AksCluster",
+    "RolloutID": "d9cdde14-55e3-49a5-a3cf-ffbea6e8126e",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T11:59:03.414971Z",
+    "key": "725148c1589d45053ca896e92ed19a554ed4b65175faf2111579369ba5da4864"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AksCluster",
+    "RolloutID": "11bcdf81-c85a-4668-9b77-5a1f8985b65f",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:14:23.990311Z",
+    "key": "c56e38ca04866eb7fae2e7f61281dbc27cdfc73dc974d8419c8d807c5247efaa"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AksCluster",
+    "RolloutID": "99d7e2e2-fd51-4c94-a9f3-6e463a383d94",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:18:56.661438Z",
+    "key": "7be39ba58701a7d5a06f4a060865145d59e3c0b0e5131c9a8c13e0162e352a1c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.AksCluster",
+    "RolloutID": "ede758ba-5c3b-467b-a029-fd813e713108",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:45:47.337792Z",
+    "key": "49c3e27c41312aa9451f0d34d4bab07b8836c6463f098b29929ac6fac731142f"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.BackgroundService",
+    "RolloutID": "e9554df7-0fda-41a6-8ca9-5ab5438a55f4",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:10:18.618098Z",
+    "key": "210c4051e2aef6f519f2ce88dbcdb6b83802550789177315801f290ecdaa8b09"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.BackgroundService",
+    "RolloutID": "3f6e2bc9-26c2-41d0-9c3e-357bd3e5d201",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:31:11.806415Z",
+    "key": "6d3633f77dfa0ef750fc87867c7b9c04f2d2a33dcfd89cbcfb5934033a7fbc62"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.BackgroundService",
+    "RolloutID": "40521fa0-4de1-4e04-856b-831522677d0b",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:31:26.387457Z",
+    "key": "c4d38b05adc1c8cae075b29f50ffe1a7be2b91815cab3becf5a81a1fb7d92d74"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.BackgroundService",
+    "RolloutID": "87ac50aa-4af6-489b-a99b-45f927e8df45",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:54:43.842748Z",
+    "key": "8f93fc762e885a6f80a489ec7aab8c29f30591269b7e23e781b79a60627e643b"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.BackgroundService",
+    "RolloutID": "234cbee3-4adc-45e7-945c-0261a63388b9",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:00:19.439087Z",
+    "key": "14277ef5a2d0dd5742d48717560fd89d76a30c8fec6f1552c1ec02ba5b528611"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.DataflowManager",
+    "RolloutID": "31e7cbb7-b58c-4880-8ce0-a3672e1dd94f",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:11:03.948812Z",
+    "key": "7417f29a73c5de2c32170913624fb09750b61299ad22d5ce429770d9d18e99f5"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.DataflowManager",
+    "RolloutID": "598bde94-d62b-42dc-b65d-e3c5b3ec1261",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:47.28421Z",
+    "key": "dc6a318a650701a3f523e176ec5460e4d08e8808d76834d4292af26db1b8daa4"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.DataflowManager",
+    "RolloutID": "0ca9bb5e-0b97-4aaf-bc06-033703b59ebe",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:01:25.149945Z",
+    "key": "7ac2b40677800b89170960969c71a800a8d460f16f840c57e2c4f4e70d5e0e2b"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.Ingress",
+    "RolloutID": "ad8f64a5-c1f4-42f9-b8f8-eee93b3ae980",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:10:13.136806Z",
+    "key": "49a780e4b733861fb6a7e79d22c4e5689ef34fc778ac6daa558fb8f59d92541c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.Ingress",
+    "RolloutID": "b4e56ff5-9ad9-45b8-9d75-b1a8c0620c02",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:18:11.050278Z",
+    "key": "e4abbd5d50d95ffb2c4d9d5cfa338d7f1df7d65cbced2a791ff57f51aefa559c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.Ingress",
+    "RolloutID": "a89788f8-bd5a-4558-843f-5e8e987ce613",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:23:33.50068Z",
+    "key": "8e911754fc743febc7cff9bd271312acf9b15c51dcedbee54320eca4c77811ab"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.Ingress",
+    "RolloutID": "56e0ab0b-4b96-4497-931e-d8767dc9794d",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:29:48.429029Z",
+    "key": "b2b1788b7f1526a6aa7e9751cb7b35faa585e488e5797b89579f7260d1f8fd8c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.Ingress",
+    "RolloutID": "a4249f80-4357-4b85-a362-13e678572030",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:38:02.625079Z",
+    "key": "8ab961c2f5e5ea4c8ff99d7a7900aa12cfa6343efa7649d1b0e3e227d70cb72e"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.Ingress",
+    "RolloutID": "0e70cf33-4a31-4e80-918c-d27d2fd2406e",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:00:24.058047Z",
+    "key": "8ffecd82fdf240260bcf4195546cd218e1a3e61f3ed74dfafaef9e1b5859701d"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.LSRPipelineManager",
+    "RolloutID": "9e40edcf-9e0c-446e-9482-326fb4548a96",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:11:03.250453Z",
+    "key": "0d73c3eb7ca9ebfb950cf96221cf17e412317ad6184c0645d8502c5b94e811e0"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.LSRPipelineManager",
+    "RolloutID": "3e2a3f20-8c37-4caa-8084-c6b4eb11ab68",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:27:01.876644Z",
+    "key": "d18b66fec25b07caab25e086c4c80317b95f737b45b86a9aa124d58991ac2273"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.LSRPipelineManager",
+    "RolloutID": "2e1471fb-c3e8-4e30-bf8f-b2cbda6d8e0c",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:31:53.828948Z",
+    "key": "e5a86cf404a4834266f2b5e9078d97e349b3f712cb0e54e7d2debdf98bfac801"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.LSRPipelineManager",
+    "RolloutID": "950b024d-7a73-4c37-93f7-e72ee5cb7f54",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:51:54.129759Z",
+    "key": "e5871d7f810ea1c30233105f07cea912a03a15d1741b59e4b66638267dde133f"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.LSRPipelineManager",
+    "RolloutID": "ed94a5b2-2e31-4350-b44f-70dba5735de9",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:01:22.13495Z",
+    "key": "c98eabcc92866aae8088eb309277d21c025e636e40b44752f13e4b7e03e380f6"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MetadataManager",
+    "RolloutID": "1ddf3fbc-8ad4-44a6-a009-cf30ef6cd6e2",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:12:11.047273Z",
+    "key": "f114e65b5b2d5d0c092ca8f702a671b7bf0c9850f73681a96b72d1a536567406"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MetadataManager",
+    "RolloutID": "26353c7c-33d4-40db-a375-963182265e4a",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:16.364786Z",
+    "key": "f8fc839a5668b3cf696a57f90adc8be52d38452394eb0aaec82dda2b8f5760fe"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MetadataManager",
+    "RolloutID": "c77d67f0-b984-4356-b68e-df7f301fd91f",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:31:16.210977Z",
+    "key": "c37b79e0f36aff0a5551cbddcb20c2fc7ba6dd8b8d9fb7ceaf26d04647678fc5"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MetadataManager",
+    "RolloutID": "2fe2bb8b-cf03-47b8-8c3c-40b11aaec96d",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:53:12.917867Z",
+    "key": "10e45ed469bd003a5988bd72a78eda4c3b4bbf2428ff2e4ad95c9554d9a18714"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MetadataManager",
+    "RolloutID": "57c84f50-311c-4c09-be28-05cfecfd65d1",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:00:41.668187Z",
+    "key": "c48161335c1ea81ae82fe4aa79097ca7c4377b0ecfade2e9f8f11f5b92764f07"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MonitoringService",
+    "RolloutID": "c15c3f2e-460b-4e72-8b96-92c8593766d9",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:11:13.734014Z",
+    "key": "d0ed6dc38152183d9a80635a8bd4cbbc3f06ec8e404fdaf7863b221a2eae9396"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MonitoringService",
+    "RolloutID": "32897077-1c0a-481f-98d7-be9a5d701fd0",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T11:32:51.768618Z",
+    "key": "fd35d557cdcc4f18d56d6dc96b625e4df6c1040330c6bb3e77731be244f07cfd"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MonitoringService",
+    "RolloutID": "9a2a85da-15e2-4ba3-b388-5df1a874d5fc",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:10.440168Z",
+    "key": "6479d4c6a39582d720c56187363c86d0b0ab88e3c83adb876301551dc4f60060"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MonitoringService",
+    "RolloutID": "e6e0734e-bc97-41e1-95bc-79b462d370dd",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:33:03.837344Z",
+    "key": "b22add015ef83604d1100fbfb932432453551ae875f1a901b2fac9cea81a5009"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MonitoringService",
+    "RolloutID": "55eaa778-00a5-4103-82b8-2963acebe2b1",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:53:36.043363Z",
+    "key": "9f230da420db5045d906524864b7b40997642cda24b98eeb6df0da7acc2046b5"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.MonitoringService",
+    "RolloutID": "8d6ce84c-8c4e-41c6-a0bf-1592ab30ebb8",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:59:45.674074Z",
+    "key": "24275f4a1b7cb18a5eb30af8aa435bdde99515e885d095ad4546116fe0f1c692"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PartnerDataPlaneResourceProvider",
+    "RolloutID": "0c3465bd-67ea-4f8d-831a-be9544873aa8",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:11:05.732992Z",
+    "key": "635e6d291cce66ca8b21c5a8ead7c65aa3c95271f33142176abb0989b4addce6"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PartnerDataPlaneResourceProvider",
+    "RolloutID": "6fe2cede-35c6-42da-837e-6c704eb1fa12",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:27:00.804291Z",
+    "key": "bca50a8dfc5529ab56ed870bad608c846af5b0e942f1b8a5eb1dc792c9b56e0a"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PartnerDataPlaneResourceProvider",
+    "RolloutID": "fb0e5e13-1776-4597-abe5-3055cec31b7a",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:59.808904Z",
+    "key": "97449c19f6fef8f835b3870ee835604436969c7cd5059502d146c8c5b34358fc"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PartnerDataPlaneResourceProvider",
+    "RolloutID": "65bb81e8-c20d-4ba6-a6a4-ed05390252bc",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:51:16.632402Z",
+    "key": "818ba28c9047eeeab4ff8235c9149218343dad2927f20e2f8eb2ded3452c44d3"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PartnerDataPlaneResourceProvider",
+    "RolloutID": "78bfa449-8f76-414a-b9f3-0c3b4003d8b2",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:00:58.199218Z",
+    "key": "22da142521e6ebd2a2e94c3e157aa6a8d6600a115f7dfe9c66895a0463b6610c"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PipelineManager",
+    "RolloutID": "e6c3d54f-5459-4ebe-9f48-97fcd0dda599",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:09:33.058891Z",
+    "key": "676f0e55d689fea27d1c18d3791f85d4cf6f6a4cbe87ed70ad767a710ce63412"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PipelineManager",
+    "RolloutID": "fb7eeb89-0498-478d-960d-c24ff5310d24",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:28:47.086418Z",
+    "key": "bbc6db85c413fe8ee83348ea4f11dc3f2fdd314826632f0c70fa192aa5afc6e9"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PipelineManager",
+    "RolloutID": "c77ad6f8-a0d0-422b-b3e2-8b41bd29c3a7",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:31:13.592967Z",
+    "key": "4905665074e9dbe873d516dbd6af5f167ae09dbed320fc9784ad58322836eb4f"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PipelineManager",
+    "RolloutID": "bb999fe0-c426-4f2e-9cf0-04c2b4deddf2",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:54:01.098689Z",
+    "key": "6eb3cb5f89b97b9f75727b8ea069aa5130f876ef2f15437d6882499b593e2d3e"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.PipelineManager",
+    "RolloutID": "9f4b39cc-2e2f-43c1-9196-bcb5aa427bf2",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:00:24.946424Z",
+    "key": "2a945cff71c8a0e7fc4d7e6491a6fc603ad9f1c1c48d456244b9d822417e17ef"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.RegionExpansion",
+    "RolloutID": "76182456-197d-4b54-baaf-96c40abf283e",
+    "BuildNumber": "20240721.1",
+    "PreciseTimeStamp": "2024-07-24T10:27:40.885399Z",
+    "key": "3a1b771f520936b52826779f04cf0febbd700b117a64fee21a621fc247242e4d"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.ResourceProvider",
+    "RolloutID": "dcef07d7-3ef6-4834-9c9e-9c53a0565e3d",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:11:41.087749Z",
+    "key": "e81de84c1e18e5739ee4fc730bece48207d34c897bab714d006ea68c6f6dde7d"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.ResourceProvider",
+    "RolloutID": "8f253152-1762-4c23-a3dd-ff753920de1d",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:29:44.213274Z",
+    "key": "5c8dd44c6a1c5afc3cea7709d5324acc1ce3f1795d036633550b42fd4d3ffe34"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.ResourceProvider",
+    "RolloutID": "01e665e6-32a8-45e4-916e-bd1f04b52a80",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:30:52.236872Z",
+    "key": "304bfcf78589221797a0643edbf5e154a5bce15af9f7790eec6a521be41b8ca2"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.ResourceProvider",
+    "RolloutID": "76c1b89a-5abd-45c2-8aa6-be77310bbc2f",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:53:44.417362Z",
+    "key": "a49c1dfad6a9c77a12724f09b330bfc44b4ff243d8dca8c6841748b560e6f581"
+  },
+  {
+    "ServiceId": "f76de4a1-629f-4651-9d76-1d7b56544f3c",
+    "ServiceGroup": "ADF.ResourceProvider",
+    "RolloutID": "8981f153-db6b-41c7-885f-105f00eff09e",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:01:03.087366Z",
+    "key": "5133efefee66053fab51d5cddf729ef206022998a59a743f2e1537ec2baaacef"
+  },
+  {
+    "ServiceId": "3cd8bc45-8d2e-486e-93a3-3a3ee465fe85",
+    "ServiceGroup": "ADXBuildOut",
+    "RolloutID": "440001a2-1078-4ea1-b3c7-6843131af8d5",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:23:21.380803Z",
+    "key": "3c4f939083888626df19435fe9c1ba7b19fe06dfb6f500c31ec22e797fc9155c"
+  },
+  {
+    "ServiceId": "099d7c99-7de8-4a98-b068-9fdcdfbbd705",
+    "ServiceGroup": "ADXBuildOut",
+    "RolloutID": "3c6edd7c-feb9-41c2-bdf5-b81f0e693f9c",
+    "BuildNumber": "1_0_2891_0_98830989 (engsys_mda_pipeline_delivery_main)",
+    "PreciseTimeStamp": "2024-07-24T14:05:35.403148Z",
+    "key": "38ce9b1abd94415210aae9c5d85d8d2fa632d858a8b3cd9038c03271034abbaa"
+  },
+  {
+    "ServiceId": "099d7c99-7de8-4a98-b068-9fdcdfbbd705",
+    "ServiceGroup": "ADXBuildOut",
+    "RolloutID": "12e5296e-ba57-4d2a-9235-6a52301ce14c",
+    "BuildNumber": "1_0_2891_0_98830989 (engsys_mda_pipeline_delivery_main)",
+    "PreciseTimeStamp": "2024-07-24T14:13:49.291034Z",
+    "key": "ae9b9fc351ba371c850707b6505366318e51eb52a10b34adc9073fb635a00332"
+  },
+  {
+    "ServiceId": "099d7c99-7de8-4a98-b068-9fdcdfbbd705",
+    "ServiceGroup": "ADXBuildOut",
+    "RolloutID": "6aa82279-4495-43b4-85bf-4938b3f1d2d4",
+    "BuildNumber": "1_0_2891_0_98830989 (engsys_mda_pipeline_delivery_main)",
+    "PreciseTimeStamp": "2024-07-24T14:21:19.026442Z",
+    "key": "9669fac022dbc28133dd858e57d4d967a1ffaa7d79095959535c1ca83d0110df"
+  },
+  {
+    "ServiceId": "2ea29b44-37cd-47cd-bf1f-f6c3b8f6eeaf",
+    "ServiceGroup": "AICP",
+    "RolloutID": "ad72e014-fde2-4ab4-bee5-ee655b29a37c",
+    "BuildNumber": "1.0.98890454-alpha-703867e",
+    "PreciseTimeStamp": "2024-07-24T07:25:53.873512Z",
+    "key": "cd47ac62936bf5c0089afd62ac00361a3d9c7a6516f29a67c3680a5c5ce5d72e"
+  },
+  {
+    "ServiceId": "2ea29b44-37cd-47cd-bf1f-f6c3b8f6eeaf",
+    "ServiceGroup": "AICP",
+    "RolloutID": "6b8f0412-7e5a-48df-a152-5d43b5c89ca6",
+    "BuildNumber": "1.0.98890454-alpha-703867e",
+    "PreciseTimeStamp": "2024-07-24T07:25:55.815971Z",
+    "key": "a9396292e937ac6508a9649bb9d9d3ccce9bea4d8db13e1913c34605f648ae8b"
+  },
+  {
+    "ServiceId": "2ea29b44-37cd-47cd-bf1f-f6c3b8f6eeaf",
+    "ServiceGroup": "AICP",
+    "RolloutID": "c8ae0a5f-f181-472b-af4c-238fc63a3d59",
+    "BuildNumber": "1.0.98890454-alpha-703867e",
+    "PreciseTimeStamp": "2024-07-24T07:26:45.537858Z",
+    "key": "e542fbabba9458a56431288f2e1c7dce72b6d430f5f0258d6f50172692b7289d"
+  },
+  {
+    "ServiceId": "2ea29b44-37cd-47cd-bf1f-f6c3b8f6eeaf",
+    "ServiceGroup": "AICP",
+    "RolloutID": "6a50583a-58d7-4ce5-a6f9-db2474f95318",
+    "BuildNumber": "1.0.98890454-alpha-703867e",
+    "PreciseTimeStamp": "2024-07-24T07:26:55.412672Z",
+    "key": "117a9d301b84b758494bdbcf108f4ec004f00e5485873e59ede78e37e8ef2ab1"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "6344454d-730f-4294-95d9-2c6fc70384ad",
+    "BuildNumber": "20240722.2",
+    "PreciseTimeStamp": "2024-07-24T07:27:41.54761Z",
+    "key": "9d5b3b7416853d9b4eea595b2848fc20e58cce4ffee9a85323f965bb222bc677"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "58111dfe-69fa-4fa1-9e0a-abed2efba91d",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:19:22.708768Z",
+    "key": "6c11bc7581d86c1fae79e3845aa415a95cff85ef1821f55ac0c893f596e7988b"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "c58750e2-9233-45df-8534-ae87e2e946d6",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:19:36.927395Z",
+    "key": "1011a89b765a1d70fd65125b378736424d44f2e3a2687105de5e04cd7ca8f8b6"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "2318f712-5db9-41d3-bf40-2632e32ef1bf",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:19:40.520409Z",
+    "key": "dd2b63ac0bd0aff3da7c51575fe111921bff1e99b324dfd73d9f6afa8683e6b0"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "9af636f6-f2ae-483c-ad9c-738f00695e1e",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:19:50.638699Z",
+    "key": "53b62cdd934a91792cde63e9c6df094d9d268dd11d25be5dac295db6bea7efd2"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "de819d3f-ffd0-4e06-8476-ec4854d8e4fc",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:19:56.343699Z",
+    "key": "a9eabccd170b862d0e9bb62732927668fe33e609da2d40cbdd48c8980b532d2c"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "957a3a1e-01bf-4bcc-9416-fd36ec9d7a26",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:20:02.464611Z",
+    "key": "d182f5d30bf4a1c065cf2f0976bf7733ccbe0456b524f63ebf63136a5b376945"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "18f8e28f-0119-4e2d-a6e9-ca4dd7f032b9",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:20:03.091859Z",
+    "key": "87fabfcec82e8ec5d6af93302a553927ad5de048aa17a4a0edd7bb6b2da083fd"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "5b00c094-c1e7-4e1e-bfac-a57e5f829232",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:20:06.200933Z",
+    "key": "1ed8ebe6fb352739523e7321148ba416b000dac091cd74e81d6eface23a1fbe7"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "1b3e3e45-0cae-4001-97dd-b1967c4421df",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T10:20:19.448547Z",
+    "key": "0dd332e302b4cb9b582688d1dcacb39dd41da8b009b6f02657bd702ed63ef868"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "6c0cba3b-f599-4c5b-8634-01240f21b7e0",
+    "BuildNumber": "20240722.2",
+    "PreciseTimeStamp": "2024-07-24T10:29:38.06826Z",
+    "key": "3f858edfb827cd485445996818fdef8914824362de065bcb652422003b2cf974"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "ed247e18-3de3-4046-a0d1-531bbd9e1bb0",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:40:07.566891Z",
+    "key": "ed22056394ec760184fc867d4e3c057eb1273ce1e2175d9e6c98207522acccc2"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "8b8ac211-7e25-4121-aaaa-6cf19d95fe26",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:44:44.422444Z",
+    "key": "f0c2e0fe0905e48700ade2a9d1b176e5a5aaccfbcfc847495f45e69514200bb5"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "e03bf08a-fa02-414f-ae62-b38889df6ac5",
+    "BuildNumber": "1.0.02761.968",
+    "PreciseTimeStamp": "2024-07-24T11:45:09.087434Z",
+    "key": "f545f18cc8517e877a6e899245a41ad33064f7d8af33ec71c36851adae14217e"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "20ea70e9-72cb-4bcb-af78-109e4414db23",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:46:07.342348Z",
+    "key": "c6614c2faf18ed2c707ddba6861e412d1156312000ba507be103701e831f4f58"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "9ef18206-ab39-4f04-8ada-c6b3b7f6e9fd",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:48:30.524873Z",
+    "key": "709161ab4a0017cc7aac1a9ad83daeda0fee2b79b1d3a8e01a210a61240a25c7"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "980d44f3-d9e2-4512-97fd-6dd5949b5b65",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:49:27.499636Z",
+    "key": "151613c0f43fa20f492d68e9bb370cc1e7b711843b29332bdeb84f11936ffd46"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "1320bbf4-cf6a-4bf6-9b67-13ce94486c6c",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:53:54.24498Z",
+    "key": "565238096e5460b66a9514befafcbae8650bb70da7d810433439415b72885a38"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "d8b351a1-e2a6-44ff-9bc5-9b409f722782",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:56:25.219476Z",
+    "key": "76f9c922c74ce8ae46f0543330fbbf3b8881e10f3c5c80b2f44ce034f6e80e63"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "1fc18d47-6571-4817-88a9-45a07854a2b7",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:56:53.216806Z",
+    "key": "18ac80eac47342db3fd096537b74ba488d8dc831cd403395d09605b3b71d05c0"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "b0b30347-8ea9-4793-8d51-7f83b6d0c37f",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T11:58:02.253304Z",
+    "key": "3dd5632f5209e606c39f619a8844f2ce7acc4ab1fc5404245595862c53456b8c"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "9f057234-16bc-4b49-8086-18726e166214",
+    "BuildNumber": "1.0.02761.221",
+    "PreciseTimeStamp": "2024-07-24T12:06:14.460301Z",
+    "key": "753c7531185e0347cb4ceab4e5a54e77508505c9de7d85ec38e81831a9d07e5e"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "6e81d6bf-e340-41e0-aa8c-a62a8730a2e4",
+    "BuildNumber": "1.0.02761.221",
+    "PreciseTimeStamp": "2024-07-24T12:06:32.462Z",
+    "key": "98ce751ef58defde9503d37d50c2761aa789660a18028ac6a5c0eb95a499897e"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "ea720543-1d98-4362-a974-08d013b5dc09",
+    "BuildNumber": "1.0.02761.968",
+    "PreciseTimeStamp": "2024-07-24T12:09:00.518547Z",
+    "key": "f2e5706a6ae662c2a662765992e440c3f144cde01afe08615dc2e0935c5e7719"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "79b33891-cf0f-44a5-8deb-b72aba906603",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T12:20:41.099336Z",
+    "key": "c25080fcfac63e231a0cb7305bdedd70c77b2d9181dd193f16256b26e80c39f9"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "592a7e43-d97a-4351-8ceb-036e02723e5c",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T12:24:06.416385Z",
+    "key": "ea707e37d9817ac8e8b4ca9ff8ff86d79024ea9c93712170957fc19edf84395f"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "2d7a32d1-7c8a-4cec-8fc9-fddeea8ba3ed",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T12:24:07.722467Z",
+    "key": "18ba834a04333add2a4ccdf0d9e100b07dd10cfe2f38a6a962e4bf8be5aec077"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "a9a63517-e9fd-4a59-894f-c77635581142",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T12:28:46.617763Z",
+    "key": "55eb5a1d379a94079adf9f54ab63b6a9cdea76ff56044c434558970cc0a09cf3"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "b429d393-70c9-4565-8ba6-4abcc1bef874",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T12:32:18.663992Z",
+    "key": "f594141f9ed77abf197fece995560d0b40bcb238a4b2e22bd176873f3bfc3c7f"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "8cb2f329-0d5e-42cb-b437-0bcb6a385bea",
+    "BuildNumber": "1.0.02761.4574-official-136aae09",
+    "PreciseTimeStamp": "2024-07-24T12:36:25.175384Z",
+    "key": "350e32a0db9ad326cdf0b4781ec795cec618e488514af78b2608e9a94c2a5dd0"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "66aad673-5841-44ad-ad35-3dabc770eb2d",
+    "BuildNumber": "20240724.1_uvsretrieval \u00b7 master (pda) \u00b7 master (uvs)",
+    "PreciseTimeStamp": "2024-07-24T13:02:59.538811Z",
+    "key": "511d78a3189d85fd9c335060418664b96d0fbc498b7aaec9daf51a81c9ea1ab3"
+  },
+  {
+    "ServiceId": "82b9a1cf-bbe3-488b-bdf9-fee717fa393a",
+    "ServiceGroup": "AICP",
+    "RolloutID": "62b4b428-07d2-405b-a445-72bdd223195b",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T13:13:27.084825Z",
+    "key": "e3e41d8853d11e0a07f562d64b61bcc97df9d2fb033e8508fc73407dbb26ef56"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "f7a54bdd-9e67-4b2c-9da8-52b735a0c540",
+    "BuildNumber": "20240724.1_uvsretrieval \u00b7 master (pda) \u00b7 master (uvs)",
+    "PreciseTimeStamp": "2024-07-24T13:21:10.25167Z",
+    "key": "f5c6f061169a95dd71571b77e5af5acc0b1e18924f67c16f101c49bf364ca50b"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "c75bc6cd-4f14-42b7-a5a7-712f0951b0fb",
+    "BuildNumber": "20240724.1_uvsretrieval \u00b7 master (pda) \u00b7 master (uvs)",
+    "PreciseTimeStamp": "2024-07-24T13:42:45.655983Z",
+    "key": "a6c98262f6ea868b3d4e2298601ec7501612086989cdc433cceb77b68ea35870"
+  },
+  {
+    "ServiceId": "01986c17-6738-4e42-9e47-178fa07c50d6",
+    "ServiceGroup": "AICP",
+    "RolloutID": "63d1ce08-ac66-425a-958c-e987a1d8ada2",
+    "BuildNumber": "1.0.02761.37",
+    "PreciseTimeStamp": "2024-07-24T13:51:39.964706Z",
+    "key": "6bd990b64584b1ea4272b60c132d77324577fae5255c0d132334b8a77dac4e1c"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "17b94dc8-1bab-4332-95fc-2dadc632ddc3",
+    "BuildNumber": "20240724.7_dev8_vision-batch \u00b7 hayan\u2215temp\u2215cnetralus (pda) \u00b7 dev (uvs)",
+    "PreciseTimeStamp": "2024-07-24T14:21:37.614861Z",
+    "key": "1ef18bd89c13abee853e57efea31deb162bb0e60d47cee3ffafad75f201a572a"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "dee3ecc4-b581-456e-bc34-5519272af2b4",
+    "BuildNumber": "20240724.7_dev8_vision-batch \u00b7 hayan\u2215temp\u2215cnetralus (pda) \u00b7 dev (uvs)",
+    "PreciseTimeStamp": "2024-07-24T14:22:17.373815Z",
+    "key": "966d4a6586d4d2a8dc7771d95a53c9e137513989eb765560934d2a6db49ee27f"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "deef7f77-d880-4b66-a0ea-5b61ff687946",
+    "BuildNumber": "20240724.7_dev8_vision-batch \u00b7 hayan\u2215temp\u2215cnetralus (pda) \u00b7 dev (uvs)",
+    "PreciseTimeStamp": "2024-07-24T14:22:19.123862Z",
+    "key": "65c83b39a3604b3c6c2ca0e1282e8e195ba7a75057350638094deb7a98d94e24"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "274425b4-6fc2-4bde-b6e8-bbf14edcc590",
+    "BuildNumber": "20240724.7_dev8_vision-batch \u00b7 hayan\u2215temp\u2215cnetralus (pda) \u00b7 dev (uvs)",
+    "PreciseTimeStamp": "2024-07-24T14:22:20.104344Z",
+    "key": "cbd60d63a22592ef11da24967e9ce4dd584359922b49c1e0f8b011994a384bce"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AICP",
+    "RolloutID": "23377c9c-d74c-4be9-82eb-6eacf793792a",
+    "BuildNumber": "20240724.7_dev8_vision-batch \u00b7 hayan\u2215temp\u2215cnetralus (pda) \u00b7 dev (uvs)",
+    "PreciseTimeStamp": "2024-07-24T14:22:23.309001Z",
+    "key": "99581244e5157d756400de2216d6938a7bdf1c601943e3c24e4f69e95be14051"
+  },
+  {
+    "ServiceId": "aa5739a9-55b2-4d8f-9963-4b87f5789851",
+    "ServiceGroup": "AICP",
+    "RolloutID": "9cbe1b14-155b-48c5-bd73-9e3945435e2c",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:28:28.234129Z",
+    "key": "cc0601f2fbc58d6d0aa3cccdbaecb851e54a6fb99a01f1904dc22b3ec71f4671"
+  },
+  {
+    "ServiceId": "f1d1800e-d38e-41f2-b63c-72d59ecaf9c0",
+    "ServiceGroup": "AKS-Infra-Deployer-Auto-Release",
+    "RolloutID": "5f3006a4-4204-47b7-8f49-cf46735ca26a",
+    "BuildNumber": "1.main.20240718.1",
+    "PreciseTimeStamp": "2024-07-24T13:04:45.101207Z",
+    "key": "7cb5562c1dd398c94e06ba0d65a27ab8c314431dc7af51882f790c483ff4b0fb"
+  },
+  {
+    "ServiceId": "0eabe05e-6c54-405a-99cc-b87552263f35",
+    "ServiceGroup": "AMD",
+    "RolloutID": "d6d3c82a-e0d7-4dc4-9d75-1d7de6e582aa",
+    "BuildNumber": "1.303.0",
+    "PreciseTimeStamp": "2024-07-24T11:30:10.040007Z",
+    "key": "2fd466338f83416be8461133ab03db7a0d557dd5c84ece878fb1e689e4eac866"
+  },
+  {
+    "ServiceId": "0eabe05e-6c54-405a-99cc-b87552263f35",
+    "ServiceGroup": "AMD",
+    "RolloutID": "b7870331-9e23-439d-a499-4c8c8df51228",
+    "BuildNumber": "1.303.0",
+    "PreciseTimeStamp": "2024-07-24T11:32:08.483997Z",
+    "key": "e1c1a8d69292ef3cc0c7bc41464be1522cd66d9fceebf690e1e74d1a4447c179"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AMLPipeline",
+    "RolloutID": "940ad687-0c73-468c-9743-450592a13eb8",
+    "BuildNumber": "1.0.02678.130",
+    "PreciseTimeStamp": "2024-07-24T13:01:37.178935Z",
+    "key": "b010822c62ed76709bf72ea725c968f206e1f24905e3b2c414af9b77410767a8"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AMLPipeline",
+    "RolloutID": "c62f9f00-5079-4946-9abb-170798dec810",
+    "BuildNumber": "1.0.02678.130",
+    "PreciseTimeStamp": "2024-07-24T13:18:24.786297Z",
+    "key": "285b96bdc2ac2cfabf1bf83362a7bef23e17ff38f0b134485bb321739f9da127"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "299fac53-7111-4394-a9cd-b8a26400d09b",
+    "BuildNumber": "1.388.0-alpha.12",
+    "PreciseTimeStamp": "2024-07-24T09:58:12.182711Z",
+    "key": "fbe7eee27f2d1da3761606441180decf8df826c416e73c48c5db004b7c25eec5"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "98bb2eb1-0116-4c24-8313-ea96d73ea57e",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T11:38:57.846319Z",
+    "key": "34c896d242aabf09bb30a8af97ceb2509e9e2d0156f2c0ef91cecff577aac09a"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "fe5a5d9a-66cb-473b-9c9f-32f7cbd58df1",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T11:39:33.290968Z",
+    "key": "a8fb0deccf123197810371418b5905affe729e71fd899ad01d161148fa608177"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "f9960652-ee82-4f70-bf84-98e20209539b",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T11:41:08.537433Z",
+    "key": "3543f1c99ee946354339bcd1a83f56c711a834184d44edd0caccb1b8e2c4be44"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "b12117fe-2a29-43b5-a24f-198be3ccd7ad",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T11:48:11.653136Z",
+    "key": "d029f94fea72471016a81af2a63a8b6b5d390e3fd0084f25cfb6a38e5c4fc9ff"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "846338ba-ad06-48f4-af67-c50ffd3b59ee",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T11:52:51.641588Z",
+    "key": "02f526341c6d41dd0c3abbdd2d9812b895e3985d998d5625d06feb9db1899596"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "c34215fe-6914-4ec1-aa82-6a33f8c5bfdb",
+    "BuildNumber": "2024.7.8.2",
+    "PreciseTimeStamp": "2024-07-24T12:08:21.774305Z",
+    "key": "241b4b9396b5075885781d6ea286bea2da1bc77ffd0e1e866b77a8a040ede327"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "53c71384-eadc-4e82-9ac4-e741699f1ca9",
+    "BuildNumber": "2024.7.8.2",
+    "PreciseTimeStamp": "2024-07-24T12:09:12.780947Z",
+    "key": "12a66d124b6ce9cefc7a50ac8aaefc14e0961991cbc9a2e3ae21cede921ee745"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "14d5696b-2dbb-460b-8cf3-528292f6b696",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T13:58:12.221421Z",
+    "key": "1e6d917f649d8b398338e21ce582c9d713f11c378224bf4a0ceb9195c4ad5428"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "291c522f-426e-4fd6-804e-0edc49761999",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T14:04:11.941483Z",
+    "key": "dd968ed3b5c218fa08e76444e7c67a6d49546d4a16e426213a9742f3702dd51c"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "84feece7-75d9-4a68-8416-9204bc24b5cd",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T14:11:10.695461Z",
+    "key": "600d5a0f96422642ff251824192f900742ee7b99c73e62bf3135c95356bb3690"
+  },
+  {
+    "ServiceId": "363f99dd-8311-435f-89cb-d795170d4ee9",
+    "ServiceGroup": "AMS",
+    "RolloutID": "8f558755-00a1-4a49-b79d-5b69db82028f",
+    "BuildNumber": "1.388.0-alpha.14",
+    "PreciseTimeStamp": "2024-07-24T14:11:48.678152Z",
+    "key": "72caf33d1a0bc76c1a76dbb262f86e5a9af00db7aa41af6b4b59e37e5ed68c57"
+  },
+  {
+    "ServiceId": "12635b84-e6ce-4936-8131-f6289ba575a3",
+    "ServiceGroup": "AMSDeploymentToTestACR",
+    "RolloutID": "9260392e-993b-4441-81eb-5bf075bfcb84",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T11:47:50.622672Z",
+    "key": "9a4249a820047369d54d095a7b8b624fcabca7756bf3cb88f8585c9facee751c"
+  },
+  {
+    "ServiceId": "dd7abaef-7abe-4a4c-9c22-5bd43d2d0113",
+    "ServiceGroup": "AMT",
+    "RolloutID": "cc0ede6c-f386-4b09-9acc-c034fff65975",
+    "BuildNumber": "1.279.1",
+    "PreciseTimeStamp": "2024-07-24T11:35:08.863263Z",
+    "key": "92cb6d571d3a5bd8d9bccb1cc6dd0c03fef29581ad60d63bece33e91d225962e"
+  },
+  {
+    "ServiceId": "dd7abaef-7abe-4a4c-9c22-5bd43d2d0113",
+    "ServiceGroup": "AMT",
+    "RolloutID": "03440ce7-a3a6-47ae-aea1-0887f92ce905",
+    "BuildNumber": "1.279.1",
+    "PreciseTimeStamp": "2024-07-24T11:40:02.801399Z",
+    "key": "9e086fb80838873482dfc25e6378abb88766e3112cad123bbf36cb54fae80d82"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "ARM-RegionalStore-Dogfood",
+    "RolloutID": "017aaca2-7d1d-4e60-a188-d8946e310dcb",
+    "BuildNumber": "2.4.39",
+    "PreciseTimeStamp": "2024-07-24T12:02:35.019046Z",
+    "key": "daf6d2ad4b38e4fbf1f9876665098cf609888a58e1bdf781d8381c90073f06af"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "ARM-RegionalStore-Dogfood",
+    "RolloutID": "1379bdbf-33d9-4060-b0bd-49a884c76613",
+    "BuildNumber": "2.4.39",
+    "PreciseTimeStamp": "2024-07-24T12:02:43.025139Z",
+    "key": "2ba53c4a61738995bf1e805870bfca5173db19152a0b8395facc5043b3888b5b"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "ARM-RegionalStore-Dogfood",
+    "RolloutID": "70b883eb-8919-438e-9285-22fdead26518",
+    "BuildNumber": "2.4.39",
+    "PreciseTimeStamp": "2024-07-24T12:02:52.835792Z",
+    "key": "2de6f3837a1364b0e8bb85c5627fefab300a83d391ce7745c3ff92191e6017cc"
+  },
+  {
+    "ServiceId": "4b226c96-c446-4cc8-9ba7-1d519ddc9a37",
+    "ServiceGroup": "AadLoginsRouter",
+    "RolloutID": "88e16fa8-c842-48a7-aec8-80cdaa1c4fcc",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T10:14:47.423611Z",
+    "key": "789900bf623323bc2e00d587a99148f18751609a103cad84bc9e5d8ecd1d878f"
+  },
+  {
+    "ServiceId": "4b226c96-c446-4cc8-9ba7-1d519ddc9a37",
+    "ServiceGroup": "AadLoginsRouter",
+    "RolloutID": "ca66d382-3acc-49bd-8ef7-fefa420aa7d0",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T11:46:22.780724Z",
+    "key": "73bd796203e724a88aa0c123cdf9ca1d11cb6f3d24bd68ea290aa1022720988f"
+  },
+  {
+    "ServiceId": "4b226c96-c446-4cc8-9ba7-1d519ddc9a37",
+    "ServiceGroup": "AadLoginsRouter",
+    "RolloutID": "fa1c373d-3d92-424b-9320-c0b64e1a2240",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T11:50:28.207729Z",
+    "key": "d44f38fb215012226a9a7a1c9ab925a3fd64b6aa2ac2987573d66f1740600f84"
+  },
+  {
+    "ServiceId": "4b226c96-c446-4cc8-9ba7-1d519ddc9a37",
+    "ServiceGroup": "AadLoginsRouter",
+    "RolloutID": "910300e1-dcca-40fe-9d86-e258f7458db7",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T11:53:44.110381Z",
+    "key": "848f94c090b8d6328d80e210ee02a9b51c35a48eb253fca20c03e1b29da032c6"
+  },
+  {
+    "ServiceId": "4b226c96-c446-4cc8-9ba7-1d519ddc9a37",
+    "ServiceGroup": "AadLoginsRouter",
+    "RolloutID": "7be2de8f-da24-4157-8f55-1e8f0ae93911",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T13:36:20.418279Z",
+    "key": "d838a23dec7f19626528ca51431e2c0010db5b6a08312bc3c466b2c3846962ea"
+  },
+  {
+    "ServiceId": "f717839a-0f61-4200-b1d1-df193fd98c7e",
+    "ServiceGroup": "AceHub-ProblemManagement-EntityScheduler-sg",
+    "RolloutID": "faac873d-559c-4cb6-acf8-460ca95de198",
+    "BuildNumber": "Buddy_PmProcessors_20240724.2",
+    "PreciseTimeStamp": "2024-07-24T07:24:19.08822Z",
+    "key": "83e157ce9cf1f129efe07cd038252c04dc8b0a52fd2d199cd8365543ab127f83"
+  },
+  {
+    "ServiceId": "f717839a-0f61-4200-b1d1-df193fd98c7e",
+    "ServiceGroup": "AceHub-ProblemManagement-EntityScheduler-sg",
+    "RolloutID": "ce9f507e-9e8b-4195-92df-09ec8a08bc00",
+    "BuildNumber": "Buddy_PmProcessors_20240724.4",
+    "PreciseTimeStamp": "2024-07-24T10:14:59.249561Z",
+    "key": "85309c4c6990727ddf5a0fe363b4d38ca574ec7ae21236629444f575036eb7fa"
+  },
+  {
+    "ServiceId": "f717839a-0f61-4200-b1d1-df193fd98c7e",
+    "ServiceGroup": "AceHub-ProblemManagement-IcmProcessor-sg",
+    "RolloutID": "057e215d-7179-4410-a135-17ddb7c8726d",
+    "BuildNumber": "Buddy_PmProcessors_20240724.2",
+    "PreciseTimeStamp": "2024-07-24T07:25:50.236687Z",
+    "key": "c6def590d0e5e99b2c9f1551c71225c023361ca62aea30214be7beb0d454c130"
+  },
+  {
+    "ServiceId": "94ab5fba-7ff4-475a-a6ae-a679cfa943b5",
+    "ServiceGroup": "AdhocShadowPartition",
+    "RolloutID": "983f169f-c415-4a40-8682-87b7632dc5ca",
+    "BuildNumber": "20240723.7-mt-adhoc-build",
+    "PreciseTimeStamp": "2024-07-24T07:27:49.018321Z",
+    "key": "c6eabeb1d48002ea485b723e43bfa8643fd4658472f31f44313549056a4d3c86"
+  },
+  {
+    "ServiceId": "94ab5fba-7ff4-475a-a6ae-a679cfa943b5",
+    "ServiceGroup": "AdhocShadowPartition",
+    "RolloutID": "e1260797-d747-4142-97f8-e974464784fe",
+    "BuildNumber": "20240724.1-mt-adhoc-build",
+    "PreciseTimeStamp": "2024-07-24T14:06:07.309597Z",
+    "key": "5e3b44bd08c3101134cc1192f910e426982f8b6acc9812d1c63800abdd5798e5"
+  },
+  {
+    "ServiceId": "35660eab-2d8e-4135-b43c-ef2837bdd57e",
+    "ServiceGroup": "Adix-Analytics",
+    "RolloutID": "e86a7b22-b6cd-4c9b-8f0a-9b34d0b4622e",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:06:21.07371Z",
+    "key": "6869c5d467e479e43bdf875e49fac2619f05bc835375751039a5157bc59b31b8"
+  },
+  {
+    "ServiceId": "35660eab-2d8e-4135-b43c-ef2837bdd57e",
+    "ServiceGroup": "Adix-Analytics",
+    "RolloutID": "f27ba4db-1c9f-4cac-999d-fe16f9ed5862",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:31:07.014387Z",
+    "key": "dda22469019a0a923dbaab5f3678dbe179f5e31156334797dd32bbbff7fdf2f6"
+  },
+  {
+    "ServiceId": "099d7c99-7de8-4a98-b068-9fdcdfbbd705",
+    "ServiceGroup": "Adls",
+    "RolloutID": "0c41afe5-f0d3-4176-9353-7def8b825d64",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T12:36:25.220002Z",
+    "key": "ddb1ca6a66ebbb4aeb491bc5510ff3bf5907cc58b06722b58657a25cf82dbe15"
+  },
+  {
+    "ServiceId": "099d7c99-7de8-4a98-b068-9fdcdfbbd705",
+    "ServiceGroup": "Adls",
+    "RolloutID": "454a58d1-71ef-4856-b975-0905fa707562",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T14:04:04.767615Z",
+    "key": "249e48ccad85b2b81e5e6cfc6101d47d1e842486abe9675e2f603cbf9e1ca711"
+  },
+  {
+    "ServiceId": "a25b5d24-1032-4fa8-9e72-8c51b77c7b55",
+    "ServiceGroup": "Admin",
+    "RolloutID": "94ef6c83-3508-4620-a0f8-a490bc29832f",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:17:11.901641Z",
+    "key": "7f3277b99d05808100ed02e36c5cd9b4de345bfb2d821e42212d8260e4c53fc7"
+  },
+  {
+    "ServiceId": "a25b5d24-1032-4fa8-9e72-8c51b77c7b55",
+    "ServiceGroup": "Admin",
+    "RolloutID": "de3e9438-5748-43f8-ab5e-32f4309756fa",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T11:45:03.200169Z",
+    "key": "919344a564ed46d60d77953c0acd2b67216e7a61ac16aeb7d57d160cb1a6f341"
+  },
+  {
+    "ServiceId": "a25b5d24-1032-4fa8-9e72-8c51b77c7b55",
+    "ServiceGroup": "Admin",
+    "RolloutID": "beb5aad0-4a36-4264-ad4e-c19f729c1ece",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T12:31:22.116078Z",
+    "key": "80333b7d0e754c1845724e7f96011d4dc9e7c40117bb3ce70f3e2d27024bd7d2"
+  },
+  {
+    "ServiceId": "a25b5d24-1032-4fa8-9e72-8c51b77c7b55",
+    "ServiceGroup": "Admin",
+    "RolloutID": "61c64d5d-d7e6-46b7-ad34-617f9cfac4ea",
+    "BuildNumber": "20240724.6",
+    "PreciseTimeStamp": "2024-07-24T13:34:09.025222Z",
+    "key": "25b2a66bba5bdf32b9998096e4dc9ec972fbed997e1610bb6233d79c0e4126e2"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AdminPortal UI",
+    "RolloutID": "dd5778b7-25b0-4e16-805e-b09d5025ca4a",
+    "BuildNumber": "1.0.240723.6",
+    "PreciseTimeStamp": "2024-07-24T07:27:38.465624Z",
+    "key": "e96e8ce8f493aa3476cd08cffec055c210dd0c9854cc8308b5473d7ca3937770"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AdminPortal UI",
+    "RolloutID": "60562eb3-fd28-47f8-af72-29c73ff99008",
+    "BuildNumber": "1.0.240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:18:55.529637Z",
+    "key": "f0a14478406269f4607a697de3c0b66be54d58f5ce371b9bd5813b6e727a099a"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AdminPortal UI",
+    "RolloutID": "8a15d867-223b-49c8-a685-22908419c3d4",
+    "BuildNumber": "1.0.240724.3",
+    "PreciseTimeStamp": "2024-07-24T10:26:24.765641Z",
+    "key": "1a21fcc3bd6495ab3d6403d80311bb6efc8514aed4a487caf873772551c5bd04"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AdminPortal UI",
+    "RolloutID": "4f373f23-ca79-428e-acbf-8e9367b4d15f",
+    "BuildNumber": "1.0.240724.3",
+    "PreciseTimeStamp": "2024-07-24T13:09:53.460323Z",
+    "key": "54eb1800a78fd3b9cf59142955f37f31cf5bafbb90df42998c4fe3c003044595"
+  },
+  {
+    "ServiceId": "7bff2dd7-fe14-472f-9c41-2c2c69a4114e",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "72d7e39f-440b-4c70-aa58-1c29710c4856",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T10:14:56.718766Z",
+    "key": "c37347d69964f2dfe787b9250cf5880b409ca3c2b5f9efc0ea883526614a529e"
+  },
+  {
+    "ServiceId": "6bd9b4f7-6d9e-4dbb-8aff-076d7daf2134",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "46bb9c6b-7245-4210-8f0b-2d0343a49b59",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T11:40:10.693122Z",
+    "key": "8227885cdf3a3079349643b817a8d37174a3e7288ec35c7482ff93b16ac75d8c"
+  },
+  {
+    "ServiceId": "6023b077-3201-47ea-ab2c-669eaea9b7a7",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "0680cf5a-d093-4790-a999-aa7c7caef61c",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T11:47:51.311086Z",
+    "key": "1af58929122d08a686d0398aa10c6e8516ad364b924b58c6014037c0e2a40c34"
+  },
+  {
+    "ServiceId": "7bff2dd7-fe14-472f-9c41-2c2c69a4114e",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "d903ed83-eaa0-490c-82e4-81d55c8a7337",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T12:07:23.583198Z",
+    "key": "565bc8838b1de4f9110cc3a0bbd6d893579ca0924cc77c2bb215a015ff1c8dbd"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "89c457be-10db-4e13-acca-ed648da18143",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T12:09:54.852358Z",
+    "key": "f5a5a6d43c9f91dbcc48a7c0b2855fa9834498384bebabc4d887432bdbe02994"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "f6290334-859f-4218-a091-0ff2f264bc3a",
+    "BuildNumber": "1.20240724.3.0",
+    "PreciseTimeStamp": "2024-07-24T12:10:06.691465Z",
+    "key": "70ac45ab79eb6afb87aafa48571ef42a3f2ec3d87d7c2398b46099fa82e42f53"
+  },
+  {
+    "ServiceId": "6023b077-3201-47ea-ab2c-669eaea9b7a7",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "5fc7405a-5c5e-4cd4-b1b5-2830480ff367",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T12:16:16.925081Z",
+    "key": "19d0cde43211c0c7aac48dc6a826b7e0711ae4ea067c6932db72b6fb08e1eda1"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "ab8e2221-dd9f-45e3-8e27-097827ca7f53",
+    "BuildNumber": "1.20240724.3.0",
+    "PreciseTimeStamp": "2024-07-24T12:26:57.296308Z",
+    "key": "f0df6bd2b49aa8bb57b0015d9468a2f2f748f099280fc12a1cb41fdc84bca0c2"
+  },
+  {
+    "ServiceId": "6bd9b4f7-6d9e-4dbb-8aff-076d7daf2134",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "80f1e8fb-58c6-41f4-b4b6-cdb60c6bfb8d",
+    "BuildNumber": "20240722.1",
+    "PreciseTimeStamp": "2024-07-24T12:34:37.278595Z",
+    "key": "e3495c0ffae283ffc32a8c190105e7aabf30833a630baab08ad6ec241b6c881d"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "c01a45fd-ec1d-4aa6-a232-bf5c4977b8f9",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T12:40:13.707716Z",
+    "key": "f5758ba34445dcbe03bc56864a6abb914b68ecb970ee5b1266bb5a868bdf7abb"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "0a9a26c6-e73e-421b-b261-910ccd5563e6",
+    "BuildNumber": "1.20240724.4.0",
+    "PreciseTimeStamp": "2024-07-24T12:44:05.380415Z",
+    "key": "134c298dff2c931061a1df9130592f582e45a6ad8da279c4f5a5bd804bc506ed"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "880e04ec-7457-41ae-8d90-d31c79d1c224",
+    "BuildNumber": "1.20240724.4.0",
+    "PreciseTimeStamp": "2024-07-24T12:45:56.266538Z",
+    "key": "f5933e4cf2f24145c6c43bbfa7404031c7374bb3d57b19ab5f69d3d211e2e001"
+  },
+  {
+    "ServiceId": "6023b077-3201-47ea-ab2c-669eaea9b7a7",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "b2328a6e-1062-4020-8181-c153cf38d40e",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T12:54:25.244635Z",
+    "key": "56aa5a432dac9d50fe773e649608da8a9af7131841b9376690c5fe7461167b94"
+  },
+  {
+    "ServiceId": "6bd9b4f7-6d9e-4dbb-8aff-076d7daf2134",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "eb45fa7b-1b67-483a-a31c-d3ed68d022b6",
+    "BuildNumber": "20240722.1",
+    "PreciseTimeStamp": "2024-07-24T13:04:27.042397Z",
+    "key": "98830ce2cb00d629f1f1d800bc333423140ea3c1811a7cf0587958c435a07a03"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "3d4adca3-9d1c-4f7c-9d96-4f92a087590e",
+    "BuildNumber": "20240724.5",
+    "PreciseTimeStamp": "2024-07-24T13:09:32.396765Z",
+    "key": "416c3f57ae4b8f650844b966a4f09df7fb267dd622a35d77602aed8e72d136b3"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "55f6b74e-7d73-4b36-9485-8bfa192b54fd",
+    "BuildNumber": "1.20240724.5.0",
+    "PreciseTimeStamp": "2024-07-24T13:11:26.997102Z",
+    "key": "46cd63c252d7f10d93e3d40199710bb4b25a926e9842e214b0fe1977fb8ef631"
+  },
+  {
+    "ServiceId": "6bd9b4f7-6d9e-4dbb-8aff-076d7daf2134",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "9f78aada-fd14-4fc6-ab5a-7befce7ca49a",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T13:14:24.742906Z",
+    "key": "731f3c283280d6c194b95b0716c40af9f4f29c271b7e17c6dfe93004bab8af7c"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "b60099b6-a0fd-46df-a943-6693c73ba5f7",
+    "BuildNumber": "20240724.6",
+    "PreciseTimeStamp": "2024-07-24T13:39:47.487337Z",
+    "key": "4690988430921a23d78635b166a993b90d34f8bb2812245f1ab1cec20e58db34"
+  },
+  {
+    "ServiceId": "6d6c3371-144f-4206-a2a9-1ccd34e0efb0",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "0cc23266-766e-4f54-8d67-82d00e5c462c",
+    "BuildNumber": "1.20240724.6.0",
+    "PreciseTimeStamp": "2024-07-24T13:41:11.556006Z",
+    "key": "f5610d8579ca721ca7650489bc31be1958cc8eb1e40ca443a6c14955716cbd7f"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "01ee53fa-8884-4fbf-95d1-7c178307daa5",
+    "BuildNumber": "1.20240724.6.0",
+    "PreciseTimeStamp": "2024-07-24T13:47:43.705868Z",
+    "key": "a441a2b282e039bde310dd17e242dbe26b6e59474a74e43584b1f5bf9f8bff16"
+  },
+  {
+    "ServiceId": "7bff2dd7-fe14-472f-9c41-2c2c69a4114e",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "ed923397-4e0f-432f-b20f-f92c1d527579",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T13:48:23.206228Z",
+    "key": "71a90672e6ea8cad13d68c8e835cd9c7092bc40be437c8a4fafdafdc7ca74349"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "f213f012-06e3-471a-ba1c-0c6e4b0d36e6",
+    "BuildNumber": "1.20240723.8.0",
+    "PreciseTimeStamp": "2024-07-24T13:52:17.547533Z",
+    "key": "96386183707a63fb9f76b0c993fc81477191fa9de902d756b8996c87cfaefc7d"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "043e3a62-7617-4cf3-b628-1c24fc9ffb8b",
+    "BuildNumber": "1.20240723.8.0",
+    "PreciseTimeStamp": "2024-07-24T13:57:04.584695Z",
+    "key": "fb8545410c8968721e9f5cd7cf1d3542f5630425602adbca5db5c16abbccd358"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "AesirCosmicConfigurationDeployment",
+    "RolloutID": "77634ad2-5deb-4a95-96d6-3b4b7cad0afb",
+    "BuildNumber": "1.20240723.8.0",
+    "PreciseTimeStamp": "2024-07-24T14:09:50.928356Z",
+    "key": "b820db691332eee1613a296db04497db0285e6e00e00568ebfcb95964a9deb51"
+  },
+  {
+    "ServiceId": "c2307a18-4ab9-477f-b012-b6940c0e0482",
+    "ServiceGroup": "AetherManagementServices",
+    "RolloutID": "d2a690c5-cec0-4bf8-a99a-f83998add28e",
+    "BuildNumber": "20240722.2",
+    "PreciseTimeStamp": "2024-07-24T11:38:59.082115Z",
+    "key": "be3b474b4d406a8911a33aec3b01145bd21795a1dbd0ef75a077af27b754de12"
+  },
+  {
+    "ServiceId": "e6e1ea2a-04a0-4f78-bc75-7d45c90eee39",
+    "ServiceGroup": "AgreementPackageCreationService",
+    "RolloutID": "2372e16d-abb2-4d5a-a6f8-85402e684075",
+    "BuildNumber": "Release-35",
+    "PreciseTimeStamp": "2024-07-24T14:13:34.396073Z",
+    "key": "dc87c6d835736982c9887804fe076463b6cfaf70bea00cb26e2f42a0add2585a"
+  },
+  {
+    "ServiceId": "e6e1ea2a-04a0-4f78-bc75-7d45c90eee39",
+    "ServiceGroup": "AgreementPackageCreationService",
+    "RolloutID": "9b6077e2-cd6e-4ce4-8031-a3ea50894e84",
+    "BuildNumber": "Release-35",
+    "PreciseTimeStamp": "2024-07-24T14:22:35.127178Z",
+    "key": "fee8c58a14acd7c491395fb95e0a14860362aa88efd4e3adc94395eb2b0346ee"
+  },
+  {
+    "ServiceId": "e6e1ea2a-04a0-4f78-bc75-7d45c90eee39",
+    "ServiceGroup": "AgreementWeb",
+    "RolloutID": "99030869-f968-4995-8ed1-8e6898222b80",
+    "BuildNumber": "Release-4",
+    "PreciseTimeStamp": "2024-07-24T11:49:41.458577Z",
+    "key": "5eda0b48237a3b315f7295526bf0a65d471b244230f5467e7765921b7464f94d"
+  },
+  {
+    "ServiceId": "e6e1ea2a-04a0-4f78-bc75-7d45c90eee39",
+    "ServiceGroup": "AgreementWeb",
+    "RolloutID": "fc06c67b-6d15-4a1f-9666-1ab51ebc2dbd",
+    "BuildNumber": "Release-5",
+    "PreciseTimeStamp": "2024-07-24T13:22:49.979992Z",
+    "key": "ee2ae017a740f8b005be61a4ce3d8277be02eb6fdeb271b0e40b1d607f992dc2"
+  },
+  {
+    "ServiceId": "1b713daa-5c8f-46cf-b421-a14259f6fa02",
+    "ServiceGroup": "AirsReportsWebjob",
+    "RolloutID": "95a36de3-664f-4f5d-974e-55ddd85c2cc7",
+    "BuildNumber": "20240724.6",
+    "PreciseTimeStamp": "2024-07-24T12:24:43.113315Z",
+    "key": "85dbac12541f6e97f7ea310fe9ce0099082f0b95c692fab37ba0375a98bbc62c"
+  },
+  {
+    "ServiceId": "a2dd5407-7262-4306-a3df-71ea2b0914e8",
+    "ServiceGroup": "Alerts",
+    "RolloutID": "971a12e5-0952-465b-aa75-88dc4aa7d97a",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T12:27:14.34858Z",
+    "key": "86c427a7e3d663fc0a22148d5740b37fb1078f67654a50925261850e7e75dd72"
+  },
+  {
+    "ServiceId": "083ed67e-91d5-4bdc-baa7-470b212b90ba",
+    "ServiceGroup": "AlertsMgmtResourceProvider",
+    "RolloutID": "f214d11e-71cf-429b-9fbd-630b95d50a8e",
+    "BuildNumber": "1.0.02761.2308",
+    "PreciseTimeStamp": "2024-07-24T13:43:33.695591Z",
+    "key": "94801e295f020482b2a9b8f57fcde3e61e8cc5ae370796460ec4c947a2418295"
+  },
+  {
+    "ServiceId": "fca21b6c-8adb-41c5-8b1e-21ec30a4d765",
+    "ServiceGroup": "AnalyticsIngestion",
+    "RolloutID": "28638531-5498-46dc-9130-2416aa6bc5e3",
+    "BuildNumber": "1.0.9.1304",
+    "PreciseTimeStamp": "2024-07-24T13:04:23.246467Z",
+    "key": "1e007c38a2f37af2cffc4ea6f4d42a1841b168ac0bdc897e188935ae2808ccb8"
+  },
+  {
+    "ServiceId": "411e6365-ec40-42e9-b127-e5bb99e4ce9c",
+    "ServiceGroup": "ApiHub",
+    "RolloutID": "d3f734b1-675d-4942-82e8-f3bb4c714dfb",
+    "BuildNumber": "1.51.21-dev.0+61e9f51",
+    "PreciseTimeStamp": "2024-07-24T13:02:46.955935Z",
+    "key": "cfe0c25588d0ba8ab562b0c96560026f9f674a1d295734387cc849036849612c"
+  },
+  {
+    "ServiceId": "411e6365-ec40-42e9-b127-e5bb99e4ce9c",
+    "ServiceGroup": "ApiHub",
+    "RolloutID": "bac6ae9b-4fe3-4436-aa3c-15b74696e4c7",
+    "BuildNumber": "1.51.21-dev.0+61e9f51",
+    "PreciseTimeStamp": "2024-07-24T13:18:14.267932Z",
+    "key": "931252add4b473637393fd60342ba52d261ed0bb0f9ce112a2723870ef042e0e"
+  },
+  {
+    "ServiceId": "411e6365-ec40-42e9-b127-e5bb99e4ce9c",
+    "ServiceGroup": "ApiHub",
+    "RolloutID": "9f937551-0c6b-4ef9-b493-95a1ddb926b3",
+    "BuildNumber": "1.51.21-dev.0+61e9f51",
+    "PreciseTimeStamp": "2024-07-24T13:33:17.181818Z",
+    "key": "78ca269fbbe6ba1dd8f43bde1f38055e997ef1091775e8838d1ba09668699c59"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "ApolloAks",
+    "RolloutID": "7dc2d42c-7d36-4d8a-8bf5-c94b44375e11",
+    "BuildNumber": "20240723.2",
+    "PreciseTimeStamp": "2024-07-24T07:25:52.413251Z",
+    "key": "356cb844dc043d9e25ceb5f15a99e20a4808a13220cca1ef86f093a201bb1825"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "ApolloAks",
+    "RolloutID": "3eb4438d-33ea-431f-87ef-2aa84ae229db",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T12:55:14.843085Z",
+    "key": "80095710fbbd060cbd1526fdae441124f1f10ebf64fbc3e434797df149c258d0"
+  },
+  {
+    "ServiceId": "NOT_AVAILABLE",
+    "ServiceGroup": "ApolloAks",
+    "RolloutID": "066e5a4f-b49e-4e35-9991-0f9f74eea69e",
+    "BuildNumber": "20240724.4",
+    "PreciseTimeStamp": "2024-07-24T13:55:00.912685Z",
+    "key": "41b4e06305591bc5c9c5149e7452d6315c24355a0ff3044f04186f868d9894c2"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "435b9ad3-4ed4-40af-a823-d5c46b2d4f90",
+    "BuildNumber": "20240723.3",
+    "PreciseTimeStamp": "2024-07-24T12:38:03.124977Z",
+    "key": "1426b8a293afca8ff1f410b85e53f9eb421822948043d106b4fdaa41de671bf2"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "9bfbb221-6c34-48e4-aba8-bf4c1f22c056",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:02:11.154561Z",
+    "key": "c52c6967a24ccf6a1fe02acf837926363bae4b044c24383d7937e3ad213de196"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "ca48cfb2-8a37-482a-8fab-188cb107ff8d",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:03:28.131782Z",
+    "key": "ddc9967fb094fd4b2f6d842213dd6b590d2f561b8210d36da7d6a27b4dcd463f"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "319e0b73-a12c-43d9-ac74-4934619ffdaa",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:04:14.128596Z",
+    "key": "6e62893218997b2528415796cc274ad33208bcbb06fdeec2604c64211242fb41"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "48f64d19-d544-44f3-90f3-e2ea330a7b3a",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:06:03.352044Z",
+    "key": "2bcafbf54ee23d014f3099485cf940eb465a904d125de95e29582aa5bc4068a5"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "c4e10d5c-2cc6-4117-898d-5e32bfc4b66b",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:07:08.377855Z",
+    "key": "9b08097cbb5f39ef5657160b21a4fd24d39e47d3c4f00450e2ab9cd4d8ca61be"
+  },
+  {
+    "ServiceId": "11740117-8e51-48c2-8846-60b0485afde3",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "6594f0f6-e6e8-412f-91a0-d66fad18e35c",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:07:40.304228Z",
+    "key": "09eff26520356f967968bb0a6bb287b76239b05954551527b06940113128cf80"
+  },
+  {
+    "ServiceId": "103c73c5-87a1-4c10-a691-79d759fa1112",
+    "ServiceGroup": "ApolloManagementServices",
+    "RolloutID": "c1d83b8a-14f9-4e54-b4f7-1eb19ac39c2b",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T14:07:45.406093Z",
+    "key": "052c3ce9b4f031851f96c9f70c1e7a6ab960e194d01fc7578f8880a222e66708"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.AppConfigService.Agent",
+    "RolloutID": "7f856fd0-b007-4a70-a8cf-7afde1372cba",
+    "BuildNumber": "20240724.1 \u2022 CICD EUS2 Classic",
+    "PreciseTimeStamp": "2024-07-24T10:09:36.776916Z",
+    "key": "5110bf8ae0680eacd7af2552cf964b7d26f3eac123bdca3daf9beb1316913754"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.Infrastructure",
+    "RolloutID": "cf6d1207-a405-41ca-96e3-9f257549b9cf",
+    "BuildNumber": "20240724.1 \u2022 CICD WUS3 Classic",
+    "PreciseTimeStamp": "2024-07-24T10:17:39.076571Z",
+    "key": "ea2cf482f95b7edf8661d28076b794476a4fa56be6660afda47ab1b6744179dc"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.Infrastructure",
+    "RolloutID": "194aa571-6f36-49db-adf6-d6e2ccd91f9d",
+    "BuildNumber": "20240724.1 \u2022 CICD EUS2 Classic",
+    "PreciseTimeStamp": "2024-07-24T10:20:01.980322Z",
+    "key": "8214bba12ada3b10774028f09a8a133b49d4054fdcc120cf6af007b9bf16ad18"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.Infrastructure",
+    "RolloutID": "4a26dc43-84d5-43af-812d-aef0aff06c36",
+    "BuildNumber": "20240724.1 \u2022 CICD WUS3 Classic",
+    "PreciseTimeStamp": "2024-07-24T10:29:57.675121Z",
+    "key": "6be07db0a745a89808ba3f8ea7b922233b55b585150a276c68c6fb704543c3c3"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.Replication",
+    "RolloutID": "ff33376e-9e5f-4960-8329-a691b5bc2f03",
+    "BuildNumber": "20240724.1 \u2022 CICD EUS2 Classic",
+    "PreciseTimeStamp": "2024-07-24T10:10:12.634337Z",
+    "key": "0afe46d870ab79a3a4dc8372b401e885a833e990500c11baa48cd8aa7311508d"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.ResourceProvider",
+    "RolloutID": "c1722782-817c-458b-9e75-08d912d2a676",
+    "BuildNumber": "20240724.1 \u2022 CICD EUS2 Classic",
+    "PreciseTimeStamp": "2024-07-24T10:09:06.511549Z",
+    "key": "bc82f81bd39ab651d503a734a243cb0121707e7e65a15d51979baa8a99bb3bbd"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.Runner",
+    "RolloutID": "ecf6b6d7-5384-4132-82d2-391425231c3e",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T13:07:33.200579Z",
+    "key": "1e8bb309b00034e6b73380dfb5f28b3268a4eae3afb4bbf7f1faa4d8042469b4"
+  },
+  {
+    "ServiceId": "45a7d954-eede-467d-b4f9-1f77feeec23c",
+    "ServiceGroup": "AppConfig.Runner",
+    "RolloutID": "d3552bd3-a0d9-46b6-9513-9ec9c6da549b",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T13:09:05.34671Z",
+    "key": "a6f63e6696b0a68147e2d5ef554adb7157106e56c512ec4f3ade61f82f3a033e"
+  },
+  {
+    "ServiceId": "062f8cfc-894e-411a-9351-b7581770ff1c",
+    "ServiceGroup": "AppSense Front Door",
+    "RolloutID": "c3888b5f-db28-4f55-8c97-43a583949710",
+    "BuildNumber": "20240724.1",
+    "PreciseTimeStamp": "2024-07-24T11:34:34.4774Z",
+    "key": "81c855fddff22c99f879b52ef93b32a124bfff1c82c62d93ae28daaa657ec7c0"
+  },
+  {
+    "ServiceId": "716c8919-bcea-4c7a-9c44-126b2d6e5aad",
+    "ServiceGroup": "Application",
+    "RolloutID": "27ad0521-791c-455f-9ef2-d4167c968a5b",
+    "BuildNumber": "20240724.3",
+    "PreciseTimeStamp": "2024-07-24T12:24:27.572315Z",
+    "key": "19b5636d6b12620b417f0192f53b7163a291cbd4d865e7a026872059cb8d9bc8"
+  },
+  {
+    "ServiceId": "746de784-6763-44d9-bc6c-e54b6bd62944",
+    "ServiceGroup": "ArcSecurity",
+    "RolloutID": "c94cdc96-1281-4733-821c-2740abcdd5fc",
+    "BuildNumber": "20240722.1",
+    "PreciseTimeStamp": "2024-07-24T11:34:08.82363Z",
+    "key": "6a64f243859f3f0d2ff9c6595786d249f35b3e1617264739f6688e5a662a7e60"
+  },
+  {
+    "ServiceId": "746de784-6763-44d9-bc6c-e54b6bd62944",
+    "ServiceGroup": "ArcSecurity",
+    "RolloutID": "c9ec2a88-219b-42ec-8f45-093a9950b008",
+    "BuildNumber": "20240722.1",
+    "PreciseTimeStamp": "2024-07-24T11:57:51.609377Z",
+    "key": "54aaa09fc9bee9efc93011df4d872af8d284f7364a8e150920d002f9d0b2658e"
+  },
+  {
+    "ServiceId": "e45adc79-6774-4d47-9e3f-cacb5dbd32c2",
+    "ServiceGroup": "Arca-UpdateScaleGroupFootprint",
+    "RolloutID": "79885b32-6dd1-4cda-851f-3276ea7294eb",
+    "BuildNumber": "CRMDeployment-v9.0_master-9.2.24074.00138--TP2CRMLIVESG833-(-20240724-0015)",
+    "PreciseTimeStamp": "2024-07-24T11:33:47.239544Z",
+    "key": "89fa7c5c32deaa5627fb61c7b759388be2a1e8863a5768eabd4f29f8ac9d74b9"
+  },
+  {
+    "ServiceId": "19f5f971-47ce-4523-8fb9-27948bb561bb",
+    "ServiceGroup": "ArcaEv2Extention",
+    "RolloutID": "6e381272-2483-4113-839b-7d744194ad97",
+    "BuildNumber": "-v9.0_weekly_2407.1-9.2.24071.00184-v9.0_weekly_2407.1",
+    "PreciseTimeStamp": "2024-07-24T09:59:01.740242Z",
+    "key": "ea2349660d2b75d1f89eaa30da5a13ab0b82419a458bfc8db742ea7ebc1d6a95"
+  },
+  {
+    "ServiceId": "19f5f971-47ce-4523-8fb9-27948bb561bb",
+    "ServiceGroup": "ArcaEv2Extention",
+    "RolloutID": "acd1fd48-6e4b-4f4c-92b2-b5e116c5645a",
+    "BuildNumber": "-v9.0_weekly_2407.4-9.2.24074.00140-v9.0_weekly_2407.4",
+    "PreciseTimeStamp": "2024-07-24T12:11:33.621233Z",
+    "key": "4517144be6a038da8fbc88d8de3860932cea16d3f05da92299aae5e4e1069b09"
+  },
+  {
+    "ServiceId": "19f5f971-47ce-4523-8fb9-27948bb561bb",
+    "ServiceGroup": "ArcaEv2Extention",
+    "RolloutID": "3142dc58-30ca-48d5-99ad-ad909c8ed63e",
+    "BuildNumber": "-v9.0_weekly_2407.4-9.2.24074.00140-v9.0_weekly_2407.4",
+    "PreciseTimeStamp": "2024-07-24T12:21:55.991257Z",
+    "key": "9e2f067b93dcaeac5eacb713e9404c14754b6cf9cb9bb21355ba6ba2e84ea216"
+  },
+  {
+    "ServiceId": "e45adc79-6774-4d47-9e3f-cacb5dbd32c2",
+    "ServiceGroup": "ArcaEv2Extention",
+    "RolloutID": "13e3a818-9e10-4544-ba48-96b4b80e6394",
+    "BuildNumber": "v9.0_weekly_2407.1-9.2.24071.00184",
+    "PreciseTimeStamp": "2024-07-24T12:58:06.437558Z",
+    "key": "822a7f146c96b068ba18ebf26d6859cbc773206abd2803ed9cb417f1dac2976e"
+  },
+  {
+    "ServiceId": "e45adc79-6774-4d47-9e3f-cacb5dbd32c2",
+    "ServiceGroup": "ArcaEv2Extention",
+    "RolloutID": "fb3158c1-ceaa-460b-8bb9-41428b89bac1",
+    "BuildNumber": "v9.0_weekly_2407.4-9.2.24074.00136",
+    "PreciseTimeStamp": "2024-07-24T13:50:27.154428Z",
+    "key": "90ac9a9f7d0181d247f2e4c90cb9bae06b225fb7862ed25726ed341a42908f0e"
+  },
+  {
+    "ServiceId": "e45adc79-6774-4d47-9e3f-cacb5dbd32c2",
+    "ServiceGroup": "ArcaEv2Extention",
+    "RolloutID": "e782d260-9865-429c-96d0-5c88a8664eb4",
+    "BuildNumber": "v9.0_weekly_2407.4-9.2.24074.00138",
+    "PreciseTimeStamp": "2024-07-24T14:07:34.37313Z",
+    "key": "c8315e17e40d9abd04c0ec0eee6032b9a344954b2ded3bad8397e0934ad723a7"
+  },
+  {
+    "ServiceId": "a2dd5407-7262-4306-a3df-71ea2b0914e8",
+    "ServiceGroup": "AsimovAppUsageObservabilityPPE",
+    "RolloutID": "35573133-00bc-4e19-8dd2-ec3e79370faa",
+    "BuildNumber": "20240724.2",
+    "PreciseTimeStamp": "2024-07-24T10:27:12.889166Z",
+    "key": "1d0358aefd3a0ee7a10b3e53d95048a40def728310e569cc2847212659e67988"
+  },
+  {
+    "ServiceId": "bafdfe08-21e4-48ea-8a63-0f1b86507dde",
+    "ServiceGroup": "AspectTests",
+    "RolloutID": "e0c02458-d00d-4d3e-9fa9-15321748db35",
+    "BuildNumber": "34b9e759",
+    "PreciseTimeStamp": "2024-07-24T14:03:45.586691Z",
+    "key": "f20972edd9a88b2ede2ea41684d67b96ea0a707ba9a7759b6d525e2457cf2ef2"
+  }
+]
