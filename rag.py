@@ -1,13 +1,4 @@
-﻿import os
-
-import pandas as pd
-from datasets import Dataset
-from sentence_transformers import SentenceTransformer
-import faiss
-from glob import glob  # For handling multiple files
 import ollama
-import requests
-from sklearn.model_selection import train_test_split
 
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
@@ -64,11 +55,11 @@ SEARCH_URL = "https://automation-search-service.search.windows.net/indexes/autom
 
 
 # Retrieve relevant documents
-def retrieve_documents(query, top_k=500):
-    results = search_client.search(search_text="Service Tree ID is 'f76de4a1-629f-4651-9d76-1d7b56544f3c'", top=top_k, select="BuildNumber", filter="BuildNumber ne null")
+def retrieve_documents(top_k=500):
+    results = search_client.search(search_text="Service Name is 'xdisksvc'", top=top_k, select="ServiceBuildLabel", filter="ServiceBuildLabel ne null")
     documents = []
     for result in results:
-        documents.append("ServiceTreeId: 'f76de4a1-629f-4651-9d76-1d7b56544f3c', BuildNumber: {}".format(result["BuildNumber"]))
+        documents.append("ServiceName: 'xdisksvc', BuildLabels: {}".format(result["ServiceBuildLabel"]))
     return documents
 
 
@@ -79,7 +70,7 @@ def answer_with_rag(query, retrieved_docs):
         # Customize the prompt for your Kusto data format
         context = "\n".join(retrieved_docs)
         prompt = (f"Use the following context to answer the question:\n{context}\n\nQuestion: {query}\n"
-                  f"Just return the answer only without any additional text. Removes duplicates. Use the  ', ' delimeter"
+                  f"Just return the answer only without any additional text. Removes duplicates. Use the ', ' delimiter"
                   f" for separating the results")
         response = ollama_client.generate(
             model="llama3.1-custom:latest",
@@ -100,14 +91,14 @@ def answer_with_rag(query, retrieved_docs):
 
 
 # Example usage:
-search_query = {
-    "search": "Service Tree ID is 'f76de4a1-629f-4651-9d76-1d7b56544f3c'",
-    "top": 500,
-    "queryType": "simple",
-    "select": "BuildNumber",
-    "filter": "BuildNumber ne null"
-}
-query = "Give me a list of build numbers for the service tree id 'f76de4a1-629f-4651-9d76-1d7b56544f3c'"
-retrieved_docs = retrieve_documents(search_query)
+# search_query = {
+#     "search": "Service Tree ID is 'f76de4a1-629f-4651-9d76-1d7b56544f3c'",
+#     "top": 500,
+#     "queryType": "simple",
+#     "select": "BuildNumber",
+#     "filter": "BuildNumber ne null"
+# }
+query = "Give me a list of build labels for the service name id 'xdisksvc'"
+retrieved_docs = retrieve_documents()
 answer = answer_with_rag(query, retrieved_docs)
 print(answer)
